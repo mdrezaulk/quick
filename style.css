@@ -1,0 +1,53 @@
+/* common startS */
+body{
+    margin:0;
+    font:  sans-serif;
+    font-size:16px;
+    font-weight:400;
+    color:black;
+}
+/* common end */
+
+
+/* header start */
+header{padding: 15px 0;
+    border-bottom:2px solid #dad6d6;
+}
+
+
+.container{
+    width: 90%;
+    margin: 0 auto;
+overflow: hidden;
+
+}
+.logo{ width:12%;
+    float: left;
+
+}
+.logo image{ width:100%;
+
+
+
+}
+
+.menu{float:right;
+width:55%;
+
+
+}
+.menu ul{float: right;}
+.menu ul li{    float: left;
+    list-style: none}
+.menu ul li a{    text-decoration: none;
+    padding: 0 22px;
+    display: block;
+    color:black;}
+.menu ul li:last-child a{padding-right: 0%;}
+
+.menu ul li a:hover{
+    color: rgb(35, 9, 237);
+}
+
+
+/* header end */
